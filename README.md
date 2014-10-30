@@ -3,4 +3,4 @@ qlik-extensions
 
 Repository of qlikview extensions
 
-Mapas: based on jqvmap for jquery
+Mapa: based on jqvmap for jquery
